@@ -58,8 +58,9 @@ I have experience and feel comfortable working with a variety of tools and langu
 ---
 ### 📈 My Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiarias&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiarias&layout=compact&theme=radical)
+[![](https://github-readme-stats.vercel.app/api?username=emiarias&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/emiarias)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=emiarias&theme=tokyonight&hide_border=true)](https://git.io/emiarias)
+
 
 ### 🏆 Github Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=emiarias&theme=dracula)
