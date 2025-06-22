@@ -63,7 +63,7 @@ I have experience and feel comfortable working with a variety of tools and langu
 
 
 ### 🏆 Github Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=emiarias&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=emiarias&theme=dracula&no-frame=true)
 
 ---
 
