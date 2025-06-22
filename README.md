@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Emilse Arias </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Programing-setup" src="https://github.com/user-attachments/assets/50aebe0f-14eb-44cc-9b26-79675d2a1b7b" />
+<img align="right" width=300px alt="Programing-setup" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U0bXl2djZhOTJpY2NyaGtubTZkcG51NTc4Z2xsb2F6dHFqem0wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
