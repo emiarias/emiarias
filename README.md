@@ -7,7 +7,7 @@
 I'm a **Systems Information Engineer**, and my passion is turning ideas into technological solutions. I currently work as a freelance programmer and as a mentor at RollingCode School, where I enjoy guiding new talents in their first steps into the programming world.
 
 - 👨‍💻 I currently specialize in **web applications** and am venturing into mobile development.
--  My main goal is to create **projects that serve as support and educational resources** for those learning to program.
+- 💡 My main goal is to create **projects that serve as support and educational resources** for those learning to program.
 - 📚 I love to simplify concepts and foster **practical learning**.
 - Outside of coding, I really enjoy 🎮 playing videogames, and I'm passionate about 🎨 drawing and painting.
 
@@ -67,14 +67,14 @@ I have experience and feel comfortable working with a variety of tools and langu
 
 ---
 
-### Featured Project
+### 💻 Featured Project
 
 I'm particularly proud of my personal project, **Cheatsheets**, a collection of quick and useful references that I'm developing for the programming community. I hope it will be of great help!
 * [**Visit Cheatsheets here**](https://emiarias.github.io/cheatsheets/index.html)
 
 ---
 
-### Connect With Me
+### 📩 Connect With Me
 
 I'm always open to new connections and opportunities. If you're interested in my work, collaborating on a project, or just want to chat about technology, feel free to reach out:
 
@@ -84,6 +84,6 @@ I'm always open to new connections and opportunities. If you're interested in my
 
 ---
 
-### My Philosophy
+### 🌱 My Philosophy
 
 I'm passionate about **teaching** and fascinated by **learning new things** constantly. I strongly believe in sharing knowledge and in the power of continuous learning to grow in this profession.
